@@ -77,3 +77,6 @@ This app implements the **Retrieval Augmented Generation (RAG)** pattern using y
 
 streamlit run wines-app.py
 ![image](https://github.com/user-attachments/assets/8b036628-50da-4ffb-b9cc-68c8a91cf23c)
+
+<img width="928" alt="Capture2" src="https://github.com/user-attachments/assets/769dfd6a-751e-45f0-b8fc-90f0df712a87" />
+
