@@ -1,4 +1,5 @@
 # Wine Explorer App - Implementing the Retrieval Augmented Generation (RAG) Pattern
+![image](https://github.com/user-attachments/assets/0f7a48ff-084c-48d9-bc99-aa21b4bdcb89)
 
 This app implements the **Retrieval Augmented Generation (RAG)** pattern using your own data. In this case, the app is designed to explore a wine dataset and use natural language queries to recommend wines based on user preferences, powered by embeddings and a vector database (Qdrant).
 
